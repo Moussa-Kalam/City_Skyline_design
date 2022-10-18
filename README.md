@@ -8,6 +8,7 @@ When the document size is 1000px wide or less, the image display is night mode. 
 Here is a preview of the final products
 
 ## Day
-
+ file:///home/moussa/Pictures/Screenshots/Screenshot%20from%202022-10-18%2021-28-47.png
 
 ## Night
+ file:///home/moussa/Pictures/Screenshots/Screenshot%20from%202022-10-18%2021-30-31.png
